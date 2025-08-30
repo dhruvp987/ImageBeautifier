@@ -17,7 +17,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][dhruv-linkedin-shield]][dhruv-linkedin-url]
+[![Ayush's LinkedIn][ayush-linkedin-shield]][ayush-linkedin-url]
 
 
 <h3 align="center">Image Beautifier</h3>
@@ -147,5 +148,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/dhruvpatel789
+[dhruv-linkedin-shield]: https://img.shields.io/badge/dhruv's%20linkedin-blue?style=for-the-badge
+[dhruv-linkedin-url]: https://linkedin.com/in/dhruvpatel789
+[ayush-linkedin-shield]: https://img.shields.io/badge/ayush's%20linkedin-blue?style=for-the-badge
+[ayush-linkedin-url]: https://linkedin.com/in/ayush-sharma-4320b9246
