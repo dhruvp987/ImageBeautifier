@@ -122,8 +122,11 @@ Here are the built-in transformations that you can use:
 
 Example:
 ```sh
-imagebeautifier -i=myimage.png o=beautifiedimage.png -c=blur,blur,resize,3,cats,cats,upsidedown,grayscale
+./imagebeautifier -i=myimage.png o=beautifiedimage.png -c=blur,blur,resize,3,cats,cats,upsidedown,grayscale
 ```
+
+***WARNING:***
+The imagebeautifier executable and the assets directory must be in the same directory, or the executable will not be able to find its assets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
